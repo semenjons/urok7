@@ -128,6 +128,7 @@ DocProject/Help/*.hhk
 DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
+
 # Click-Once directory
 publish/
 
@@ -147,9 +148,11 @@ publish/
 !/packages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!/packages/repositories.config
+
 # Windows Azure Build Output
 csx/
 *.build.csdef
+
 # Windows Azure Emulator
 ecf/
 rcf/
@@ -162,6 +165,7 @@ AppPackages/
 *.[Cc]ache
 # but keep track of directories ending in .cache
 !*.[Cc]ache/
+
 # Others
 ClientBin/
 [Ss]tyle[Cc]op.*
@@ -184,9 +188,11 @@ _UpgradeReport_Files/
 Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
+
 # SQL Server files
 *.mdf
 *.ldf
+
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
@@ -200,10 +206,13 @@ FakesAssemblies/
 
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
+
 # Visual Studio 6 build log
 *.plg
+
 # Visual Studio 6 workspace options file
 *.opt
+
 # Visual Studio LightSwitch build output
 /*.HTMLClient/GeneratedArtifacts
 /*.DesktopClient/GeneratedArtifacts
